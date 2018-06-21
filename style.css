@@ -417,7 +417,7 @@ width: 10%;
 
 
 .header-area {
-    background: #000000 url('images/bg_1.jpg') no-repeat scroll center center / cover;
+    background: #000000 url('http://res.cloudinary.com/liberationfront/image/upload/v1529612328/bg_1_uigwp5.jpg') no-repeat scroll center center / cover;
     z-index: 2;
 }
 
